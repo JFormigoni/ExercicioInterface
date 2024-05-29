@@ -1,0 +1,8 @@
+2024-05-29 00:01:36 DEBUG: This is a debug message
+2024-05-29 00:01:36 WARNING: This is a warning message
+2024-05-29 00:01:36 ERROR: This is an error message
+2024-05-29 00:02:13 DEBUG: This is a debug message
+2024-05-29 00:02:13 WARNING: This is a warning message
+2024-05-29 00:02:13 ERROR: This is an error message2024-05-29 00:03:06 DEBUG: This is a debug message
+2024-05-29 00:03:06 WARNING: This is a warning message
+2024-05-29 00:03:06 ERROR: This is an error message
